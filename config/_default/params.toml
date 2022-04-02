@@ -4,7 +4,7 @@ mainSections = ["post"]
 rssFullContent = true
 
 [footer]
-since = 2020
+since = 2022
 customText = ""
 
 [dateFormat]
@@ -18,7 +18,7 @@ subtitle = "欢迎来到咱的博客！"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "http://q1.qlogo.cn/g?b=qq&nk=1981324730&s=640"
+src = "https://s1.ax1x.com/2022/04/02/qoHD4P.jpg"
 
 [article]
 math = true
