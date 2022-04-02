@@ -10,7 +10,7 @@ links:
     website: https://itakashi.info
     image: https://cravatar.cn/avatar/6b8b156954476d2bd461da1a09231132?s=256&d=mm&r=g
   - title: 提莫酱のBlog
-    description: 旅程总有一天会迎来终点，不必匆忙。
+    description: Let's start learning !
     website: https://www.timochan.cn/
     image: timojiang.jpg
   - title: Bhao
