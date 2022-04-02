@@ -24,7 +24,7 @@ src = "https://q1.qlogo.cn/g?b=qq&nk=1981324730&s=640"
 math = true
 readingTime = true
 
-[article.license]`
+[article.license]
 enabled = true
 default = "Licensed under CC BY-NC-SA 4.0"
 
