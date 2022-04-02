@@ -5,6 +5,10 @@ links:
     description: GitHub is the world's largest software development platform.
     website: https://github.com/Erhecy
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: 梦潇の秘密花园
+    description: 科技于心，深入于人
+    website: https://itakashi.info
+    image: https://cravatar.cn/avatar/6b8b156954476d2bd461da1a09231132?s=256&d=mm&r=g
 menu:
     main: 
         weight: 4
@@ -14,20 +18,4 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+想添加友链请先和我成为朋友吧~ QQ : `1981324730`
