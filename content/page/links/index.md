@@ -1,5 +1,6 @@
 ---
 title: 友链
+slug: links
 links:
   - title: ilunp
     description: 一个二比卵子罢了。
