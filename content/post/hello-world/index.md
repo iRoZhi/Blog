@@ -2,7 +2,7 @@
 title: Hello World
 description: 又一个Hugo博客诞生啦！
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2022-04-02 00:00:00+0000
 image: https://dl.ilunp.com/small/konachan/261c82449e5d36bc10e402f36d8533d9.jpg
 categories:
     - 杂七杂八
