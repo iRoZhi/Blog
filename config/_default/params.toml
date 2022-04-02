@@ -13,15 +13,15 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "欢迎来到咱的博客！"
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "http://q1.qlogo.cn/g?b=qq&nk=1981324730&s=640"
 
 [article]
-math = false
+math = true
 readingTime = true
 
 [article.license]
