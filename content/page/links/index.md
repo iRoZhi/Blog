@@ -4,7 +4,7 @@ links:
   - title: ilunp
     description: 一个二比卵子罢了。
     website: https://ilunp.com/
-    image: img/avatar.png
+    image: https://secure.gravatar.com/avatar/cc10e3ce6d34e327ac03785c3e612faf?s=128&r=G
   - title: 梦潇の秘密花园
     description: 科技于心，深入于人
     website: https://itakashi.info
