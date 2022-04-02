@@ -12,11 +12,11 @@ links:
   - title: 提莫酱のBlog
     description: 旅程总有一天会迎来终点，不必匆忙。
     website: https://www.timochan.cn/
-    image: https://cdn.timochan.cn/img/avatar.jpg
+    image: timojiang.jpg
   - title: Bhao
     description: 布好小可爱
     website: https://dwd.moe/
-    image: https://cdns.jks.life/blog/content/logo.png
+    image: buhao.png
 menu:
     main: 
         weight: 4
