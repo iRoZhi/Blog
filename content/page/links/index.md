@@ -12,11 +12,11 @@ links:
   - title: 提莫酱のBlog
     description: Let's start learning !
     website: https://www.timochan.cn/
-    image: timojiang.jpg
+    image: img/timojiang.jpg
   - title: Bhao
     description: 布好小可爱
     website: https://dwd.moe/
-    image: buhao.png
+    image: img/buhao.png
 menu:
     main: 
         weight: 4
