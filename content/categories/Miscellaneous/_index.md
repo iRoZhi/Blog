@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 杂七杂八
+description: 各种各样都有
 image:
 
 # Badge style
