@@ -16,6 +16,14 @@ url = "https://www.ohman.top/"
 icon = "home"
 
 [[social]]
+identifier = "rss"
+name = "rss"
+url = "/index.xml"
+
+[social.params]
+icon = "rss"
+
+[[social]]
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/erhecy"
