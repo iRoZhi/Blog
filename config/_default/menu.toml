@@ -13,7 +13,7 @@ name = "Home"
 url = "https://www.ohman.top/"
 
 [social.params]
-icon = "brand-home"
+icon = "home"
 
 [[social]]
 identifier = "github"
