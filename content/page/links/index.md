@@ -18,6 +18,10 @@ links:
     description: 布好小可爱
     website: https://dwd.moe/
     image: img/buhao.png
+  - title: 若志随笔
+    description: 愿世界安康，愿你我皆好！
+    website: https://www.rz.sb
+    image: https://q1.qlogo.cn/g?b=qq&nk=80360650&s=100
 menu:
     main: 
         weight: 4
