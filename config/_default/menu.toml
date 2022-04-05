@@ -8,6 +8,14 @@
 #newtab = true
 
 [[social]]
+identifier = "home"
+name = "Home"
+url = "https://www.ohman.top/"
+
+[social.params]
+icon = "brand-home"
+
+[[social]]
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/erhecy"
